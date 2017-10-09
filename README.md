@@ -30,9 +30,9 @@ I wrote a small C program that takes input in the following format:
 
 The first digit is the amount of requests
 The following lines are either	
-*1 = enqueue the following digit
-*2 = dequeue
-*3 = peek
+* 1 = enqueue the following digit
+* 2 = dequeue
+* 3 = peek
 
 The program reads the requests and writes each peek to STDOUT.
 
